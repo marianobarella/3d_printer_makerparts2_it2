@@ -1,1 +1,2 @@
-3d_printer_makerparts2_it2
+# Marlin-based code for MakerParts 3D printer
+Model: MarkerParts2 it2.
